@@ -1,0 +1,22 @@
+public class MySampleApexClass{
+
+public static Integer myValue=0;
+public ststic String myString1='';
+public ststic String myString5='';
+public ststic String myString7='';
+public ststic String variable1='';
+public ststic String variable2='';
+public ststic String myString3='';
+public ststic String myString2='';
+
+	public ststic Integer getCalculatedValue(){
+
+	// method definition in body
+	// do some calculation
+	myValue=myValue+10;
+testing going on
+	return myValue;
+
+}
+
+}
