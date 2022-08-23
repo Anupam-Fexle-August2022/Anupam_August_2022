@@ -6,6 +6,8 @@ public ststic String myString5='';
 public ststic String myString7='';
 public ststic String variable1='';
 public ststic String variable2='';
+public ststic String newVariable1='';
+public ststic String newVariable2='';
 public ststic String myString3='';
 public ststic String myString2='';
 
@@ -15,6 +17,9 @@ public ststic String myString2='';
 	// do some calculation
 	myValue=myValue+10;
 testing going on
+testing1;
+testing2;
+testing3;
 	return myValue;
 
 }
